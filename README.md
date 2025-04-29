@@ -1,4 +1,4 @@
-# 🧠 Breast-Cancer-Classification Using Deep Learning
+# 🧠 Breast Cancer Classification Using Deep Learning
 
 This project implements a deep learning-based pipeline to classify breast tumors as benign or malignant using the Wisconsin Breast Cancer dataset. Built from scratch using PyTorch, the project demonstrates exploratory data analysis (EDA), custom model architecture, training-validation pipelines, and performance analysis.
 
